@@ -1,8 +1,8 @@
-data/
-*.db
-*.db-wal
-*.db-shm
 .env
+.env.local
 .DS_Store
-__pycache__/
-*.pyc
+data/
+node_modules/
+.next/
+out/
+tsconfig.tsbuildinfo
